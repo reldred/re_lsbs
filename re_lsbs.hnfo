@@ -11,6 +11,8 @@
 			"Luxtram's Skyscraper Building Set" 00 
 			"Coded by reldred. Artwork by Luxtram. Used under the terms of the GPLv2 License and as such this derivative work is licensed as such. For support go bug reldred on #openttd or the Discord." 00
 
+// 1960 - 1979
+
 // ID 00 - 03 60s_scraper_01 (North, East, West and South)
 #define BUILDING_ID 00
 #include "include/60s_scraper_01_0N.hnfo"
@@ -20,5 +22,119 @@
 #include "include/60s_scraper_01_2W.hnfo"
 #define BUILDING_ID 03
 #include "include/60s_scraper_01_3S.hnfo"
+
+// ID 04 - 07 60s_scraper_02 (North, East, West and South)
+#define BUILDING_ID 04
+#include "include/60s_scraper_02_0N.hnfo"
+#define BUILDING_ID 05
+#include "include/60s_scraper_02_1E.hnfo"
+#define BUILDING_ID 06
+#include "include/60s_scraper_02_2W.hnfo"
+#define BUILDING_ID 07
+#include "include/60s_scraper_02_3S.hnfo"
+
+// ID 08 - 0B 60s_scraper_03 (North, East, West and South)
+#define BUILDING_ID 08
+#include "include/60s_scraper_03_0N.hnfo"
+#define BUILDING_ID 09
+#include "include/60s_scraper_03_1E.hnfo"
+#define BUILDING_ID 0A
+#include "include/60s_scraper_03_2W.hnfo"
+#define BUILDING_ID 0B
+#include "include/60s_scraper_03_3S.hnfo"
+
+// ID 0C - 0F 60s_scraper_04 (North, East, West and South)
+#define BUILDING_ID 0C
+#include "include/60s_scraper_04_0N.hnfo"
+#define BUILDING_ID 0D
+#include "include/60s_scraper_04_1E.hnfo"
+#define BUILDING_ID 0E
+#include "include/60s_scraper_04_2W.hnfo"
+#define BUILDING_ID 0F
+#include "include/60s_scraper_04_3S.hnfo"
+
+// 1980 - 1999
+
+// ID 00 - 03 80s_scraper_01 (North, East, West and South)
+#define BUILDING_ID 10
+#include "include/80s_scraper_01_0N.hnfo"
+#define BUILDING_ID 11
+#include "include/80s_scraper_01_1E.hnfo"
+#define BUILDING_ID 12
+#include "include/80s_scraper_01_2W.hnfo"
+#define BUILDING_ID 13
+#include "include/80s_scraper_01_3S.hnfo"
+
+// ID 04 - 07 80s_scraper_02 (North, East, West and South)
+#define BUILDING_ID 14
+#include "include/80s_scraper_02_0N.hnfo"
+#define BUILDING_ID 15
+#include "include/80s_scraper_02_1E.hnfo"
+#define BUILDING_ID 16
+#include "include/80s_scraper_02_2W.hnfo"
+#define BUILDING_ID 17
+#include "include/80s_scraper_02_3S.hnfo"
+
+// ID 08 - 0B 80s_scraper_03 (North, East, West and South)
+#define BUILDING_ID 18
+#include "include/80s_scraper_03_0N.hnfo"
+#define BUILDING_ID 19
+#include "include/80s_scraper_03_1E.hnfo"
+#define BUILDING_ID 1A
+#include "include/80s_scraper_03_2W.hnfo"
+#define BUILDING_ID 1B
+#include "include/80s_scraper_03_3S.hnfo"
+
+// ID 0C - 0F 80s_scraper_04 (North, East, West and South)
+#define BUILDING_ID 1C
+#include "include/80s_scraper_04_0N.hnfo"
+#define BUILDING_ID 1D
+#include "include/80s_scraper_04_1E.hnfo"
+#define BUILDING_ID 1E
+#include "include/80s_scraper_04_2W.hnfo"
+#define BUILDING_ID 1F
+#include "include/80s_scraper_04_3S.hnfo"
+
+// 2000 - 2019
+
+// ID 00 - 03 00s_scraper_01 (North, East, West and South)
+#define BUILDING_ID 20
+#include "include/00s_scraper_01_0N.hnfo"
+#define BUILDING_ID 21
+#include "include/00s_scraper_01_1E.hnfo"
+#define BUILDING_ID 22
+#include "include/00s_scraper_01_2W.hnfo"
+#define BUILDING_ID 23
+#include "include/00s_scraper_01_3S.hnfo"
+
+// ID 04 - 07 00s_scraper_02 (North, East, West and South)
+#define BUILDING_ID 24
+#include "include/00s_scraper_02_0N.hnfo"
+#define BUILDING_ID 25
+#include "include/00s_scraper_02_1E.hnfo"
+#define BUILDING_ID 26
+#include "include/00s_scraper_02_2W.hnfo"
+#define BUILDING_ID 27
+#include "include/00s_scraper_02_3S.hnfo"
+
+// ID 08 - 0B 00s_scraper_03 (North, East, West and South)
+#define BUILDING_ID 28
+#include "include/00s_scraper_03_0N.hnfo"
+#define BUILDING_ID 29
+#include "include/00s_scraper_03_1E.hnfo"
+#define BUILDING_ID 2A
+#include "include/00s_scraper_03_2W.hnfo"
+#define BUILDING_ID 2B
+#include "include/00s_scraper_03_3S.hnfo"
+
+// ID 0C - 0F 00s_scraper_04 (North, East, West and South)
+#define BUILDING_ID 2C
+#include "include/00s_scraper_04_0N.hnfo"
+#define BUILDING_ID 2D
+#include "include/00s_scraper_04_1E.hnfo"
+#define BUILDING_ID 2E
+#include "include/00s_scraper_04_2W.hnfo"
+#define BUILDING_ID 2F
+#include "include/00s_scraper_04_3S.hnfo"
 
 // Fin

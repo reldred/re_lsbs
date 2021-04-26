@@ -2,55 +2,47 @@
 
 // Action 1's - Four Variations
 0 * 0	01 07 18 FF 01 00
-// 1st
-0		art/sprites.png 8bpp 10 10 32 218 -31 -171 normal
-0	 	art/sprites.png 8bpp 10 10 32 218 -31 -171 normal
-0		art/sprites.png 8bpp 10 10 32 218 -31 -171 normal
-0		art/sprites.png 8bpp 10 10 32 218 -31 -171 normal
-0		art/sprites.png 8bpp 10 10 32 218 -31 -171 normal
-0		art/sprites.png 8bpp 10 10 32 218 -31 -171 normal
-// 2nd
-0		art/sprites.png 8bpp 168 10 32 239 -31 -192 normal
-0	 	art/sprites.png 8bpp 168 10 32 239 -31 -192 normal
-0		art/sprites.png 8bpp 168 10 32 239 -31 -192 normal
-0		art/sprites.png 8bpp 168 10 32 239 -31 -192 normal
-0		art/sprites.png 8bpp 168 10 32 239 -31 -192 normal
-0		art/sprites.png 8bpp 168 10 32 239 -31 -192 normal
-// 3rd
-0		art/sprites.png 8bpp 326 10 32 254 -31 -207 normal
-0	 	art/sprites.png 8bpp 326 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 326 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 326 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 326 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 326 10 32 254 -31 -207 normal
-// 4th
-0		art/sprites.png 8bpp 484 10 32 254 -31 -207 normal
-0	 	art/sprites.png 8bpp 484 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 484 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 484 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 484 10 32 254 -31 -207 normal
-0		art/sprites.png 8bpp 484 10 32 254 -31 -207 normal
+// 1st -31 -47 off height
+0		art/sprites.png 8bpp 10 10 32 280 -31 -233 normal
+0	 	art/sprites.png 8bpp 10 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 10 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 10 10 32 280 -31 -233 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 10 10 32 280 -31 -233 normal
+// 2nd -31 -47 off height
+0		art/sprites.png 8bpp 168 10 32 280 -31 -233 normal
+0	 	art/sprites.png 8bpp 168 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 168 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 168 10 32 280 -31 -233 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 168 10 32 280 -31 -233 normal
+// 3rd -31 -47 off height
+0		art/sprites.png 8bpp 326 10 32 280 -31 -233 normal
+0	 	art/sprites.png 8bpp 326 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 326 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 326 10 32 280 -31 -233 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 326 10 32 280 -31 -233 normal
+// 4th -31 -47 off height
+0		art/sprites.png 8bpp 484 10 32 280 -31 -233 normal
+0	 	art/sprites.png 8bpp 484 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 484 10 32 280 -31 -233 normal
+0		art/sprites.png 8bpp 484 10 32 280 -31 -233 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 484 10 32 280 -31 -233 normal
 
 // Action 0
-0 * 0		00 07 
-		05 
-		01 
-		BUILDING_ID 
-		08 23 
-		10 60 EA 
-		11 FF
-		19 02		
-		1D 04
+#include "action0s/60s_skyscraper_2W.hnfo"  
 		
 // Action 4 to set name:  
 0 * 0		04 07  // Action 4, Feature 7
-		01 // Language ID
+		00 // Language ID
 		01 // Number of strings to change
 		BUILDING_ID C9 // Offset
 		"Skyscraper 01 South" 00 // String
                  
 // Action 2 Chain:
-#include "action2chains/60s_scraper_01.hnfo"                     
+#include "action2chains/2x2_skyscraper_act_2.hnfo"                     
 
 // Action 3
 0 * 0		03 07 01 BUILDING_ID 00 90 00 

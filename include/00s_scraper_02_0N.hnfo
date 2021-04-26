@@ -1,0 +1,48 @@
+// Department Store (N)
+
+// Action 1's - Four Variations
+0 * 0	01 07 18 FF 01 00
+// 1st -31 -63 off height
+0		art/sprites.png 8bpp 684 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 684 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 684 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 684 600 64 290 -31 -227 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 684 600 64 290 -31 -227 normal
+// 2nd -31 -63 off height
+0		art/sprites.png 8bpp 841 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 841 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 841 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 841 600 64 290 -31 -227 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 841 600 64 290 -31 -227 normal
+// 3rd -31 -63 off height
+0		art/sprites.png 8bpp 999 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 999 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 999 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 999 600 64 290 -31 -227 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 999 600 64 290 -31 -227 normal
+// 4th -31 -63 off height
+0		art/sprites.png 8bpp 1157 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 1157 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 1157 600 64 290 -31 -227 normal
+0		art/sprites.png 8bpp 1157 600 64 290 -31 -227 normal
+0		art/8bppBlank.png 8bpp 10 10 64 31 -31 -0 normal
+0		art/sprites.png 8bpp 1157 600 64 290 -31 -227 normal
+
+// Action 0
+#include "action0s/00s_skyscraper_0N.hnfo"     
+
+// Action 4 to set name:  
+0 * 0	04 07  // Action 4, Feature 7
+		00 // Language ID
+		01 // Number of strings to change
+		BUILDING_ID C9 // Offset
+		"Skyscraper 02 North" 00 // String
+
+// Action 2 Chain:
+#include "action2chains/2x2_skyscraper_act_2.hnfo"                 
+
+// Action 3
+0 * 0	03 07 01 BUILDING_ID 00 90 00
