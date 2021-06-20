@@ -46,7 +46,8 @@
    26 art/sprites.png 8bpp 526 10 64 280 -31 -217 normal
 // Action 0
 // Action 0
-   27 * 36	 00 07 0D 01 00 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1950 // long intro 1960
+   27 * 36	 00 07 0D 01 00 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1960 // long intro 1960
   22 \w1979 // long outro 1979
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -1304,7 +1305,8 @@
   262 art/sprites.png 8bpp 1157 10 64 280 -31 -217 normal
 // Action 0
 // Action 0
-  263 * 36	 00 07 0D 01 04 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1950 // long intro 1960
+  263 * 36	 00 07 0D 01 04 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1960 // long intro 1960
   22 \w1979 // long outro 1979
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -2562,7 +2564,8 @@
   498 art/sprites.png 8bpp 1789 10 64 280 -31 -217 normal
 // Action 0
 // Action 0
-  499 * 36	 00 07 0D 01 08 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1950 // long intro 1960
+  499 * 36	 00 07 0D 01 08 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1960 // long intro 1960
   22 \w1979 // long outro 1979
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -3820,7 +3823,8 @@
   734 art/sprites.png 8bpp 2421 10 64 280 -31 -217 normal
 // Action 0
 // Action 0
-  735 * 36	 00 07 0D 01 0C 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1950 // long intro 1960
+  735 * 36	 00 07 0D 01 0C 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1960 // long intro 1960
   22 \w1979 // long outro 1979
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -5079,7 +5083,8 @@
   970 art/sprites.png 8bpp 526 300 64 290 -31 -227 normal
 // Action 0
 // Action 0
-  971 * 36	 00 07 0D 01 10 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1970 // long intro 1980
+  971 * 36	 00 07 0D 01 10 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1980 // long intro 1980
   22 \w1999 // long outro 1999
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -6337,7 +6342,8 @@
  1206 art/sprites.png 8bpp 1157 300 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 1207 * 36	 00 07 0D 01 14 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1970 // long intro 1980
+ 1207 * 36	 00 07 0D 01 14 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1980 // long intro 1980
   22 \w1999 // long outro 1999
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -7595,7 +7601,8 @@
  1442 art/sprites.png 8bpp 1789 300 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 1443 * 36	 00 07 0D 01 18 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1970 // long intro 1980
+ 1443 * 36	 00 07 0D 01 18 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1980 // long intro 1980
   22 \w1999 // long outro 1999
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -8853,7 +8860,8 @@
  1678 art/sprites.png 8bpp 2421 300 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 1679 * 36	 00 07 0D 01 1C 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1970 // long intro 1980
+ 1679 * 36	 00 07 0D 01 1C 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w1980 // long intro 1980
   22 \w1999 // long outro 1999
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
@@ -10112,8 +10120,9 @@
  1914 art/sprites.png 8bpp 526 600 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 1915 * 36	 00 07 0D 01 20 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1990 // long intro 1980
-  22 \w2029 // long outro 1999
+ 1915 * 36	 00 07 0D 01 20 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w2000 // long intro 2100
+  22 \w2039 // long outro 2019
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
  1916 * 26	 04 07 // Action 4, Feature 7
@@ -11370,8 +11379,9 @@
  2150 art/sprites.png 8bpp 1157 600 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 2151 * 36	 00 07 0D 01 24 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1990 // long intro 1980
-  22 \w2029 // long outro 1999
+ 2151 * 36	 00 07 0D 01 24 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w2000 // long intro 2100
+  22 \w2039 // long outro 2019
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
  2152 * 26	 04 07 // Action 4, Feature 7
@@ -12628,8 +12638,9 @@
  2386 art/sprites.png 8bpp 1789 600 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 2387 * 36	 00 07 0D 01 28 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1990 // long intro 1980
-  22 \w2029 // long outro 1999
+ 2387 * 36	 00 07 0D 01 28 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w2000 // long intro 2100
+  22 \w2039 // long outro 2019
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
  2388 * 26	 04 07 // Action 4, Feature 7
@@ -13886,8 +13897,9 @@
  2622 art/sprites.png 8bpp 2421 600 64 290 -31 -227 normal
 // Action 0
 // Action 0
- 2623 * 36	 00 07 0D 01 2C 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 32 21 \w1990 // long intro 1980
-  22 \w2029 // long outro 1999
+ 2623 * 36	 00 07 0D 01 2C 08 20 09 10 10 \w60000 11 FF 12 \wx200F 13 10 78 14 01 18 FF 19 02 1D 04 1F 3C // 60yr lifespan
+  21 \w2000 // long intro 2100
+  22 \w2039 // long outro 2019
 // Action 4 to set name:  
 //!!Error (206): Cannot set (extended-)byte IDs for feature 07.
  2624 * 26	 04 07 // Action 4, Feature 7
