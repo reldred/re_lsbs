@@ -13,6 +13,6 @@
 		18 FF
 		19 02
 		1D 04
-		1F 32
-		21 \w1990 // long intro 1980
-		22 \w2029 // long outro 1999
+		1F 3C // 60yr lifespan
+		21 \w2000 // long intro 2100
+		22 \w2039 // long outro 2019
