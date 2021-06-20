@@ -301,7 +301,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
    58 * 23	 02 07 80 // setid
    86 // var of city
@@ -310,9 +310,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -615,7 +615,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   117 * 23	 02 07 80 // setid
    86 // var of city
@@ -624,9 +624,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -929,7 +929,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   176 * 23	 02 07 80 // setid
    86 // var of city
@@ -938,9 +938,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -1243,7 +1243,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   235 * 23	 02 07 80 // setid
    86 // var of city
@@ -1252,9 +1252,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -1560,7 +1560,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   294 * 23	 02 07 80 // setid
    86 // var of city
@@ -1569,9 +1569,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -1874,7 +1874,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   353 * 23	 02 07 80 // setid
    86 // var of city
@@ -1883,9 +1883,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -2188,7 +2188,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   412 * 23	 02 07 80 // setid
    86 // var of city
@@ -2197,9 +2197,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -2502,7 +2502,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   471 * 23	 02 07 80 // setid
    86 // var of city
@@ -2511,9 +2511,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -2819,7 +2819,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   530 * 23	 02 07 80 // setid
    86 // var of city
@@ -2828,9 +2828,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -3133,7 +3133,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   589 * 23	 02 07 80 // setid
    86 // var of city
@@ -3142,9 +3142,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -3447,7 +3447,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   648 * 23	 02 07 80 // setid
    86 // var of city
@@ -3456,9 +3456,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -3761,7 +3761,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   707 * 23	 02 07 80 // setid
    86 // var of city
@@ -3770,9 +3770,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -4078,7 +4078,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   766 * 23	 02 07 80 // setid
    86 // var of city
@@ -4087,9 +4087,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -4392,7 +4392,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   825 * 23	 02 07 80 // setid
    86 // var of city
@@ -4401,9 +4401,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -4706,7 +4706,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   884 * 23	 02 07 80 // setid
    86 // var of city
@@ -4715,9 +4715,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -5020,7 +5020,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
   943 * 23	 02 07 80 // setid
    86 // var of city
@@ -5029,9 +5029,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -5338,7 +5338,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1002 * 23	 02 07 80 // setid
    86 // var of city
@@ -5347,9 +5347,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -5652,7 +5652,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1061 * 23	 02 07 80 // setid
    86 // var of city
@@ -5661,9 +5661,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -5966,7 +5966,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1120 * 23	 02 07 80 // setid
    86 // var of city
@@ -5975,9 +5975,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -6280,7 +6280,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1179 * 23	 02 07 80 // setid
    86 // var of city
@@ -6289,9 +6289,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -6597,7 +6597,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1238 * 23	 02 07 80 // setid
    86 // var of city
@@ -6606,9 +6606,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -6911,7 +6911,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1297 * 23	 02 07 80 // setid
    86 // var of city
@@ -6920,9 +6920,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -7225,7 +7225,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1356 * 23	 02 07 80 // setid
    86 // var of city
@@ -7234,9 +7234,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -7539,7 +7539,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1415 * 23	 02 07 80 // setid
    86 // var of city
@@ -7548,9 +7548,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -7856,7 +7856,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1474 * 23	 02 07 80 // setid
    86 // var of city
@@ -7865,9 +7865,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -8170,7 +8170,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1533 * 23	 02 07 80 // setid
    86 // var of city
@@ -8179,9 +8179,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -8484,7 +8484,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1592 * 23	 02 07 80 // setid
    86 // var of city
@@ -8493,9 +8493,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -8798,7 +8798,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1651 * 23	 02 07 80 // setid
    86 // var of city
@@ -8807,9 +8807,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -9115,7 +9115,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1710 * 23	 02 07 80 // setid
    86 // var of city
@@ -9124,9 +9124,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -9429,7 +9429,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1769 * 23	 02 07 80 // setid
    86 // var of city
@@ -9438,9 +9438,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -9743,7 +9743,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1828 * 23	 02 07 80 // setid
    86 // var of city
@@ -9752,9 +9752,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -10057,7 +10057,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1887 * 23	 02 07 80 // setid
    86 // var of city
@@ -10066,9 +10066,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -10375,7 +10375,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  1946 * 23	 02 07 80 // setid
    86 // var of city
@@ -10384,9 +10384,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -10689,7 +10689,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2005 * 23	 02 07 80 // setid
    86 // var of city
@@ -10698,9 +10698,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -11003,7 +11003,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2064 * 23	 02 07 80 // setid
    86 // var of city
@@ -11012,9 +11012,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -11317,7 +11317,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2123 * 23	 02 07 80 // setid
    86 // var of city
@@ -11326,9 +11326,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -11634,7 +11634,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2182 * 23	 02 07 80 // setid
    86 // var of city
@@ -11643,9 +11643,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -11948,7 +11948,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2241 * 23	 02 07 80 // setid
    86 // var of city
@@ -11957,9 +11957,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -12262,7 +12262,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2300 * 23	 02 07 80 // setid
    86 // var of city
@@ -12271,9 +12271,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -12576,7 +12576,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2359 * 23	 02 07 80 // setid
    86 // var of city
@@ -12585,9 +12585,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -12893,7 +12893,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2418 * 23	 02 07 80 // setid
    86 // var of city
@@ -12902,9 +12902,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -13207,7 +13207,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2477 * 23	 02 07 80 // setid
    86 // var of city
@@ -13216,9 +13216,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -13521,7 +13521,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2536 * 23	 02 07 80 // setid
    86 // var of city
@@ -13530,9 +13530,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -13835,7 +13835,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2595 * 23	 02 07 80 // setid
    86 // var of city
@@ -13844,9 +13844,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -14152,7 +14152,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2654 * 23	 02 07 80 // setid
    86 // var of city
@@ -14161,9 +14161,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -14466,7 +14466,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2713 * 23	 02 07 80 // setid
    86 // var of city
@@ -14475,9 +14475,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -14780,7 +14780,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2772 * 23	 02 07 80 // setid
    86 // var of city
@@ -14789,9 +14789,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
@@ -15094,7 +15094,7 @@
    26 00 // 2nd
    36 00 // 3rd
    46 00 // 4th
-// varact2 to restrict building until a certain population (3k)
+// varact2 to restrict building until a certain population (10k)
 //!!Warning (170): Default result cannot be reached.
  2831 * 23	 02 07 80 // setid
    86 // var of city
@@ -15103,9 +15103,9 @@
    02 // numranges
    00 80 // setid
     00 00 // minval
-    B7 0B // maxval
+    0F 27 // maxval
    01 80 // setid
-    B8 0B // minval
+    10 27 // minval
     FF FF // maxval
    60 00 // default setid  
 // Current Callback  
